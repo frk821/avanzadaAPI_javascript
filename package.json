@@ -1,0 +1,21 @@
+{
+  "name": "servidoravanzada",
+  "version": "1.0.0",
+  "description": "api rest hoteles",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "CESDE"
+  ],
+  "author": "Frank",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  }
+}
